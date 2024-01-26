@@ -1,2 +1,1 @@
-Le principe des anamorphoses est de plaquer une texture sur un support donné de manière à ce que l’image représentée par le texture soit perçue non déformée dans un miroir de forme
-géométrique donnée pour un observateur situé à un endroit précis Appliquer ce principe pour un support plan sur lequel est posé un miroir cylindrique. Pour chacun de ces cas fait une animation opengl illustrant le principe de construction et montrant le résultat final.
+Ceci est un projet en C++ utilisant la bibliothèque GLUT qui implémente le rendu 3D de formes géométriques telles que le cube, le cône, la pyramide (avec des bases de 3, 4 et n côtés), ainsi qu'un miroir.
