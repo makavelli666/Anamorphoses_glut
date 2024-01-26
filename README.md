@@ -1,0 +1,2 @@
+Le principe des anamorphoses est de plaquer une texture sur un support donné de manière à ce que l’image représentée par le texture soit perçue non déformée dans un miroir de forme
+géométrique donnée pour un observateur situé à un endroit précis Appliquer ce principe pour un support plan sur lequel est posé un miroir cylindrique. Pour chacun de ces cas fait une animation opengl illustrant le principe de construction et montrant le résultat final.
